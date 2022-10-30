@@ -4,7 +4,7 @@ import { AiOutlineBulb } from "react-icons/ai";
 import { MdHotTub } from "react-icons/md";
 import { TbSofa } from "react-icons/tb";
 import { VscArrowBoth } from "react-icons/vsc";
-import Title from "../../Component/Title";
+import Title from "../../Components/Title";
 
 const Banner = () => {
   const ref = useRef(null);
