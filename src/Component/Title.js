@@ -12,7 +12,7 @@ const Title = () => {
   return (
     <motion.div style={{ scale }} className='hidden lg:block card-actions justify-start'>
       <h1 className="text-9xl font-header font-bold absolute -mt-20 text-[#333333]">
-        radisson
+        Sarah Resort
       </h1>
     </motion.div>
   );

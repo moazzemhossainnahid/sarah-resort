@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="bg-[#E4E1DF] md:px-8 lg:px-16">
       <div className="lg:flex items-end py-16">
-        <h1 className="lg:text-9xl text-7xl text-center md:text-9xl lg:text-left font-header md:font-bold w-full">radisson</h1>
+        <h1 className="lg:text-7xl text-5xl text-center md:text-7xl lg:text-left font-header md:font-bold w-full">Sarah Resort</h1>
         <p className="w-full hidden md:justify-center lg:flex md:flex items-center gap-2 uppercase">
           <div>
             <span className="font-bold">Lorem</span>ipsum
@@ -27,7 +27,7 @@ const Footer = () => {
           <MdEmail className="text-4xl mx-auto lg:mx-0" />
           <h1 className="text-4xl font-medium">EMAIL</h1>
           <h1>Get In Touch</h1>
-          <h1>hello@radisson.re</h1>
+          <h1>hello@sarahresort.re</h1>
         </div>
         <div className="flex flex-col gap-1 text-center lg:text-left">
           <MdLocalPhone className="text-4xl mx-auto lg:mx-0" />
@@ -78,7 +78,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="flex border-t pt-10 pb-14 border-neutral md:justify-between lg:justify-between">
-        <p className="text-center">Copyright © 2022 - All right reserved by Radisson Resort Ltd</p>
+        <p className="text-center">Copyright © 2022 - All right reserved by Sarah Resort Ltd</p>
         <p className="hidden lg:block md:block">Credits</p>
       </div>
     </div>
