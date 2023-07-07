@@ -85,7 +85,7 @@ const Navbar = () => {
                 href="#"
                 className="font-bold p-1 font-header text-5xl"
               >
-                radisson
+                Sarah Resort
               </AnchorLink>
             </button>
           </div>
